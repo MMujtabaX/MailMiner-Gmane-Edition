@@ -1,6 +1,6 @@
 # 📧 Gmane Email Archive Analysis
 
-This repository contains a set of Python scripts that collectively form a complete pipeline to **extract**, **process**, and **analyze** public email data from the [Gmane](http://www.gmane.org/) archive, particularly focusing on the `sakai.devel` mailing list. This project was developed as part of the **Python for Everybody - Capstone** course by the University of Michigan on Coursera.
+This repository contains a set of Python scripts that collectively form a complete pipeline to **extract**, **process**, and **analyze** public email data from the [Gmane](http://www.gmane.org/) archive, particularly focusing on the `sakai.devel` mailing list. 
 
 ---
 
