@@ -2,7 +2,7 @@
 
 This repository contains a set of Python scripts that collectively form a complete pipeline to **extract**, **process**, and **analyze** public email data from the [Gmane](http://www.gmane.org/) archive, particularly focusing on the `sakai.devel` mailing list. 
 
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm92d2tjN3NwcDNibXZheTBoY2NlOWZ0Mm9yazdjdHEwNTY3dXJsbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vzTDTS5mev6vAf3Eiz/giphy.gif" alt="Gmane Project Demo" width="700"/> </p>
+![Gmane Demo](https://mir-s3-cdn-cf.behance.net/project_modules/max_632/366afc106892299.5f9a9f33952ad.gif)
 
 ---
 
